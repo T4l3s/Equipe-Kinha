@@ -1,9 +1,9 @@
 # Equipe-Kinha
 
-Lucas Caio
+Lucas Caio - 03337200
 
-Paulo Vitor
+Paulo Vitor - 03333584
 
-Rafael Frazão
+Rafael Frazão - 03339453
 
-Hector Silva
+Hector Silva - 03334905
